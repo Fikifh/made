@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BarVolume</string>
+    <string name="width">Lebar</string>
+    <string name="heigh">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="length">Panjang</string>
+    <string name="movie_activity">Pindah Activity</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="from">Asal</string>
+    <string name="grid">Grid</string>
+    <string name="with_card_view">With Card View</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorit</string>
+    <string name="description">deskripsi</string>
+</resources>
